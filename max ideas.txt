@@ -1,0 +1,3 @@
+Trade card data points (+):
+ - Pirate level
+ - Location population/heatmap (user input)

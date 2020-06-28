@@ -1,0 +1,4 @@
+*.db
+*_pycache_*
+*.tbc
+/.vscode
